@@ -1,0 +1,7 @@
+# Example usage
+
+# Show help
+python main.py --help
+
+# Run greet task
+python main.py run --task greet
