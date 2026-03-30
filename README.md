@@ -45,7 +45,7 @@ examples/      # Sample inputs
 
 ## ⚙️ Requirements
 
-- Python 3.8+
+- No external dependencies.
 
 ## 📄 License
 
