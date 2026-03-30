@@ -45,7 +45,7 @@ examples/      # Sample inputs
 
 ## ⚙️ Requirements
 
-- No external dependencies.
+No external dependencies.
 
 ## 📄 License
 
