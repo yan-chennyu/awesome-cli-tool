@@ -1,8 +1,8 @@
-name: Daily Commit
+name: 5min Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 毎日0時（UTC）
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Create empty commit
         run: |
-          git commit --allow-empty -m "daily commit"
+          git commit --allow-empty -m "auto commit"
 
       - name: Push
         run: |
