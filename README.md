@@ -14,7 +14,7 @@ This project is hosted on GitHub.
 ## 📦 Installation
 
 ```bash id="install01"
-git clone https://github.com/qianyuyang4/awesome-cli-tool.git
+git clone https://github.com/qianyuyn/awesome-cli-tool.git
 cd awesome-cli-tool
 ```
 
